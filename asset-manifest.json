@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/web-dev-assessment/static/css/main.af77a96b.css",
+    "main.js": "/web-dev-assessment/static/js/main.e1055dab.js",
+    "static/media/stackline_logo.svg": "/web-dev-assessment/static/media/stackline_logo.5935081bd899ecfe02395699e768f84e.svg",
+    "index.html": "/web-dev-assessment/index.html",
+    "main.af77a96b.css.map": "/web-dev-assessment/static/css/main.af77a96b.css.map",
+    "main.e1055dab.js.map": "/web-dev-assessment/static/js/main.e1055dab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af77a96b.css",
+    "static/js/main.e1055dab.js"
+  ]
+}
